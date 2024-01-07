@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Roboto,Arial;
+}
+.banner-image{
+  background-image: url('asset/Banner\ Image.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 10px;
+  height: 600px;
+  margin-top: 25px;
+  opacity: 1;
+  
+  
+}
+
+.banner-title{
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 35px;
+  padding-top: 150px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.banner-sub-title{
+  margin-top: 5px;
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 60px;
+  font-family: Roboto,Arial;
+ 
+}
+.discount{
+  text-align: center;
+  margin-top: 50px;
+}
+

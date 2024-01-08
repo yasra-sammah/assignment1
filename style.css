@@ -113,3 +113,99 @@ header{
   border-radius: 5px;
   margin-top: 10px;
 }
+
+/* offer style */
+
+.new-best-offer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 450px;
+
+  
+  
+}
+.coming-soon{
+  /* height: 500px; */
+  text-align: left;
+  padding-top: 30px;
+  margin-left: 150px;
+  
+ 
+  
+}
+.offer-title{
+  color: rgb(214, 29, 29) ;
+  font-size: 18px;
+ 
+
+}
+.offer-info{
+  margin-top: 10px;
+  font-size: 45px;
+  margin-bottom: 15px;
+}
+.offer-description{
+  color: rgb(101, 96, 96);
+}
+.circle-pic{
+  width: 250px;
+  border: 10px solid  rgb(214, 29, 29) ;
+  border-radius: 150px;
+  padding: 20px;
+  align-items: center;
+}
+.year{
+  text-align: left;
+  width: 600px;
+  padding-top: 50px;
+  
+}
+
+.year-date{
+  font-size: 40px;
+  color: rgb(214, 29, 29) ;
+  margin-bottom: 20px;
+}
+.year-pic{
+  margin-top: 20px;
+}
+.sale{
+ text-align: center;
+}
+.holiday{
+  color:  rgb(214, 29, 29) ;
+  font-size: 60px;
+  
+}
+.sale-target{
+  font-size: 60px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.intro{
+ color: gray;
+}
+
+.image{
+  display: inline-block;
+}
+.pic1{
+  width: 400px;
+  margin-left: 400px;
+  margin-bottom: 660px;
+  margin-top: -380px;
+  box-shadow: rgba(80, 73, 73, 0.608);
+  
+}
+.pic2{
+  margin-bottom: 817px;
+  margin-top: -680px;
+  margin-left: 170px;
+}
+.pic3{
+  margin-top: -1100px;
+  margin-left: 840px;
+  margin-bottom: 1300px;
+  width: 250px;
+}
